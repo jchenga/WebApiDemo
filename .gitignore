@@ -1,0 +1,6 @@
+packages/
+WebServices.Web/bin
+WebServices.Web/Scripts/*
+WebServices.Web/Content/*
+WebServices.Web/fonts/*
+WebServices.Web/obj/*
